@@ -84,4 +84,20 @@ Contributions are welcome! Please open issues or pull requests for bug fixes, im
 This project is licensed under the MIT License.
 
 
+Run history:
+
+epoch	▁▁▂▂▂▂▃▃▃▃▄▄▄▅▅▅▅▆▆▆▆▇▇▇▇██
+learning_rate	███████████████████████▁▁▁▁
+train_loss	█▆▅▆▅▅▄▂▄▂▃▂▂▂▂▂▁▂▂▁▂▂▁▂▂▁▁
+val_loss	▄█▂▁▂▂▂▅▃▂▁▁▁▁▁▂▂▂▂▂▁▂▂▂▂▂▂
+
+Run summary:
+
+epoch	27
+learning_rate	0.00035
+train_loss	0.19709
+val_loss	0.18503
+<img width="2465" height="1353" alt="image" src="https://github.com/user-attachments/assets/97d496cf-3da4-4e6a-bc82-3c762416c11e" />
+
+
 
