@@ -92,7 +92,13 @@ epoch	27
 learning_rate	0.00035
 train_loss	0.19709
 val_loss	0.18503
-<img width="2465" height="1353" alt="image" src="https://github.com/user-attachments/assets/97d496cf-3da4-4e6a-bc82-3c762416c11e" />
+
+wandb run url: https://wandb.ai/rohankanthale0-bharati-vidyapeeth/ayna_unet_fixed/runs/d1sdz75u
+<img width="2527" height="1382" alt="image" src="https://github.com/user-attachments/assets/ad0962e1-2b44-480c-9082-683792848605" />
+
+
+
+
 
 
 
