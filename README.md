@@ -83,6 +83,5 @@ Contributions are welcome! Please open issues or pull requests for bug fixes, im
 
 This project is licensed under the MIT License.
 
-## Contact
 
-For questions or support, please contact the maintainer at [your-email@example.com].
+
