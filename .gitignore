@@ -1,0 +1,28 @@
+# Ignore dataset images and outputs to avoid large files in git
+dataset/training/inputs/
+dataset/training/outputs/
+dataset/validation/inputs/
+dataset/validation/outputs/
+
+# Ignore checkpoints and model weights
+checkpoints/
+*.pth
+
+# Ignore VSCode settings
+.vscode/
+__MACOSX/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore wandb logs
+wandb/
+
+# Ignore environment variables file
+.env
